@@ -1,0 +1,205 @@
+2026-09-13T22:14:49Z INFO GET /api/v1/webhooks 200 OK - 45ms
+2026-09-13T22:16:02Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-13T22:16:34Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-13T22:16:47Z INFO GET /api/v1/reports/daily 200 OK - 38ms
+2026-09-13T22:18:04Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T22:19:22Z INFO GET /api/v1/orders 200 OK - 31ms
+2026-09-13T22:20:38Z INFO GET /api/v1/inventory 200 OK - 81ms
+2026-09-13T22:21:52Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T22:22:10Z INFO GET /api/v1/users/7101 200 OK - 57ms
+2026-09-13T22:23:25Z INFO POST /api/v1/notifications 202 OK - 324ms
+2026-09-13T22:23:56Z INFO GET /api/v1/reports/daily 200 OK - 168ms
+2026-09-13T22:25:00Z INFO DELETE /api/v1/orders/6924 204 OK - 161ms
+2026-09-13T22:25:36Z INFO GET /api/v1/users/2341 200 OK - 302ms
+2026-09-13T22:26:19Z INFO POST /api/v1/auth/login 200 OK - 155ms
+2026-09-13T22:27:41Z INFO GET /api/v1/orders/9387 200 OK - 222ms
+2026-09-13T22:28:07Z INFO POST /api/v1/orders 201 OK - 223ms
+2026-09-13T22:28:17Z INFO GET /api/v1/orders/6140 200 OK - 182ms
+2026-09-13 22:41 ERROR something broke, no clear format here
+2026-09-13T22:29:06Z INFO POST /api/v1/notifications 202 OK - 43ms
+2026-09-13T22:29:22Z INFO DELETE /api/v1/orders/2064 204 OK - 39ms
+2026-09-13T22:30:06Z INFO DELETE /api/v1/orders/5662 204 OK - 205ms
+2026-09-13T22:31:36Z INFO DELETE /api/v1/orders/6823 204 OK - 94ms
+2026-09-13T22:32:59Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-13T22:33:40Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T22:34:35Z INFO DELETE /api/v1/orders/2320 204 OK - 93ms
+2026-09-13T22:35:37Z INFO GET /api/v1/inventory 200 OK - 228ms
+2026-09-13T22:36:52Z INFO GET /api/v1/webhooks 200 OK - 202ms
+2026-09-13T22:37:26Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T22:38:00Z INFO GET /api/v1/orders 200 OK - 309ms
+2026-09-13T22:38:28Z INFO GET /api/v1/orders 200 OK - 222ms
+2026-09-13T22:39:41Z INFO POST /api/v1/notifications 202 OK - 72ms
+2026-09-13T22:40:51Z INFO GET /api/v1/orders 200 OK - 294ms
+2026-09-13T22:41:46Z INFO GET /api/v1/webhooks 200 OK - 254ms
+2026-09-13T22:43:12Z INFO GET /api/v1/users/2103 200 OK - 114ms
+2026-09-13T22:44:13Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T22:44:31Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T22:44:48Z INFO POST /api/v1/notifications 202 OK - 44ms
+2026-09-13T22:45:19Z INFO POST /api/v1/orders 201 OK - 185ms
+2026-09-13T22:46:41Z INFO GET /api/v1/orders/2889 200 OK - 257ms
+2026-09-13T22:47:45Z INFO GET /api/v1/inventory 200 OK - 81ms
+2026-09-13T22:48:03Z INFO GET /api/v1/inventory 200 OK - 90ms
+2026-09-13T22:49:14Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T22:50:28Z INFO GET /api/v1/reports/daily 200 OK - 337ms
+2026-09-13T22:50:44Z INFO GET /api/v1/inventory 200 OK - 195ms
+2026-09-13T22:51:10Z INFO GET /api/v1/users/9725 200 OK - 285ms
+2026-09-13T22:52:19Z INFO GET /api/v1/users/4197 200 OK - 130ms
+2026-09-13T22:53:15Z INFO GET /api/v1/users/4275 200 OK - 273ms
+2026-09-13T22:54:23Z INFO GET /api/v1/orders 200 OK - 151ms
+2026-09-13T22:55:28Z INFO POST /api/v1/notifications 202 OK - 236ms
+2026-09-13T22:56:17Z INFO POST /api/v1/auth/login 200 OK - 120ms
+2026-09-13T22:56:35Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-13T22:57:23Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-13T22:58:29Z INFO POST /api/v1/auth/login 200 OK - 69ms
+2026-09-13T22:59:23Z INFO GET /api/v1/users/8832 200 OK - 99ms
+2026-09-13T23:00:23Z INFO POST /api/v1/auth/login 200 OK - 210ms
+2026-09-13T23:01:27Z INFO GET /api/v1/orders/3602 200 OK - 95ms
+2026-09-13T23:01:48Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-13T23:03:11Z INFO DELETE /api/v1/orders/6741 204 OK - 87ms
+2026-09-13T23:04:26Z INFO GET /api/v1/orders 200 OK - 340ms
+2026-09-13T23:04:44Z INFO POST /api/v1/orders 201 OK - 107ms
+2026-09-13T23:05:16Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T23:06:25Z INFO POST /api/v1/notifications 202 OK - 140ms
+2026-09-13T23:07:39Z INFO POST /api/v1/orders 201 OK - 189ms
+ERROR /api/v1/orders 500 timestamp missing entirely
+2026-09-13T23:08:42Z INFO GET /api/v1/reports/daily 200 OK - 264ms
+2026-09-13T23:09:03Z INFO GET /api/v1/reports/daily 200 OK - 17ms
+2026-09-13T23:10:04Z INFO POST /api/v1/notifications 202 OK - 84ms
+2026-09-13T23:10:31Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-13T23:11:17Z INFO GET /api/v1/reports/daily 200 OK - 62ms
+2026-09-13T23:12:33Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T23:12:43Z INFO GET /api/v1/reports/daily 200 OK - 295ms
+2026-09-13T23:12:51Z INFO GET /api/v1/orders/8262 200 OK - 174ms
+2026-09-13T23:14:14Z INFO POST /api/v1/notifications 202 OK - 110ms
+2026-09-13T23:14:54Z INFO GET /api/v1/reports/daily 200 OK - 267ms
+2026-09-13T23:15:30Z INFO GET /api/v1/inventory 200 OK - 237ms
+2026-09-13T23:15:52Z INFO GET /api/v1/webhooks 200 OK - 169ms
+2026-09-13T23:16:06Z INFO GET /api/v1/webhooks 200 OK - 116ms
+2026-09-13T23:17:36Z INFO GET /api/v1/orders/3530 200 OK - 337ms
+2026-09-13T23:19:05Z INFO GET /api/v1/inventory 200 OK - 247ms
+2026-09-13T23:19:38Z INFO GET /api/v1/orders/7525 200 OK - 257ms
+2026-09-13T23:20:03Z INFO GET /api/v1/users/3645 200 OK - 228ms
+2026-09-13T23:21:13Z INFO GET /api/v1/webhooks 200 OK - 190ms
+2026-09-13T23:21:58Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T23:22:46Z INFO DELETE /api/v1/orders/1296 204 OK - 204ms
+2026-09-13T23:23:33Z INFO GET /api/v1/inventory 200 OK - 40ms
+2026-09-13T23:23:52Z INFO GET /api/v1/users/2716 200 OK - 51ms
+2026-09-13T23:24:30Z INFO POST /api/v1/orders 201 OK - 74ms
+2026-09-13T23:25:29Z INFO GET /api/v1/inventory 200 OK - 84ms
+2026-09-13T23:26:42Z INFO POST /api/v1/notifications 202 OK - 175ms
+2026-09-13T23:26:58Z INFO POST /api/v1/orders 201 OK - 45ms
+2026-09-13T23:27:37Z INFO GET /api/v1/orders/5268 200 OK - 50ms
+2026-09-13T23:28:59Z INFO GET /api/v1/orders/5332 200 OK - 70ms
+2026-09-13T23:30:02Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-13T23:31:26Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T23:31:51Z INFO POST /api/v1/orders 201 OK - 167ms
+2026-09-13T23:33:16Z INFO GET /api/v1/users/5750 200 OK - 236ms
+2026-09-13T23:34:25Z INFO GET /api/v1/inventory 200 OK - 17ms
+2026-09-13T23:35:02Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-13T23:36:17Z INFO GET /api/v1/reports/daily 200 OK - 133ms
+2026-09-13T23:37:19Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-13T23:38:33Z INFO GET /api/v1/webhooks 200 OK - 165ms
+2026-09-13T23:39:05Z INFO POST /api/v1/auth/login 200 OK - 333ms
+2026-09-13T23:39:27Z INFO POST /api/v1/auth/login 200 OK - 74ms
+2026-09-13T23:39:33Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T23:39:58Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-13T23:41:28Z INFO POST /api/v1/notifications 202 OK - 158ms
+2026-09-13T23:41:38Z INFO POST /api/v1/orders 201 OK - 236ms
+2026-09-13T23:41:43Z INFO POST /api/v1/auth/login 200 OK - 173ms
+2026-09-13T23:42:19Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T23:43:09Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-14T01:09:5Z WARN /api/v1/orders truncated timestamp seconds field
+2026-09-13T23:43:24Z INFO GET /api/v1/reports/daily 200 OK - 135ms
+2026-09-13T23:44:33Z INFO GET /api/v1/orders/5328 200 OK - 53ms
+2026-09-13T23:44:56Z INFO GET /api/v1/orders 200 OK - 19ms
+2026-09-13T23:45:39Z INFO GET /api/v1/users/2384 200 OK - 307ms
+2026-09-13T23:46:51Z INFO POST /api/v1/orders 201 OK - 174ms
+2026-09-13T23:47:59Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-13T23:49:09Z INFO GET /api/v1/reports/daily 200 OK - 276ms
+2026-09-13T23:50:18Z INFO GET /api/v1/orders 200 OK - 51ms
+2026-09-13T23:50:26Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T23:51:19Z INFO GET /api/v1/reports/daily 200 OK - 329ms
+2026-09-13T23:51:26Z INFO GET /api/v1/users/9016 200 OK - 143ms
+2026-09-13T23:51:31Z INFO GET /api/v1/orders/9240 200 OK - 282ms
+2026-09-13T23:51:47Z INFO GET /api/v1/orders/8763 200 OK - 137ms
+2026-09-13T23:52:01Z INFO GET /api/v1/users/4362 200 OK - 126ms
+2026-09-13T23:53:29Z INFO DELETE /api/v1/orders/7267 204 OK - 47ms
+2026-09-13T23:54:35Z INFO GET /api/v1/inventory 200 OK - 323ms
+2026-09-13T23:56:00Z INFO GET /api/v1/orders/3415 200 OK - 177ms
+2026-09-13T23:56:37Z INFO GET /api/v1/inventory 200 OK - 14ms
+2026-09-13T23:57:43Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-13T23:58:15Z INFO GET /api/v1/inventory 200 OK - 154ms
+2026-09-13T23:59:19Z INFO GET /api/v1/orders/9996 200 OK - 110ms
+2026-09-14T00:00:03Z INFO DELETE /api/v1/orders/1286 204 OK - 156ms
+2026-09-14T00:01:06Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:02:00Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-14T00:02:14Z INFO POST /api/v1/orders 201 OK - 142ms
+2026-09-14T00:03:05Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-14T00:03:56Z INFO DELETE /api/v1/orders/7456 204 OK - 20ms
+2026-09-14T00:04:21Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:05:17Z INFO POST /api/v1/orders 201 OK - 184ms
+2026-09-14T00:06:10Z INFO POST /api/v1/auth/login 200 OK - 174ms
+2026-09-14T00:06:58Z INFO GET /api/v1/orders/4207 200 OK - 14ms
+2026-09-14T00:07:40Z INFO GET /api/v1/orders/7437 200 OK - 207ms
+2026-09-14T00:09:00Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:09:11Z INFO GET /api/v1/orders 200 OK - 333ms
+2026-09-14T00:09:35Z INFO GET /api/v1/inventory 200 OK - 269ms
+2026-09-14T00:10:20Z ERROR POST /api/v1/auth/login 401 Unauthorized: invalid or expired token
+2026-09-14T00:10:28Z INFO GET /api/v1/webhooks 200 OK - 112ms
+
+2026-09-14T00:10:43Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:12:06Z INFO GET /api/v1/inventory 200 OK - 33ms
+2026-09-14T00:13:21Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:14:09Z INFO GET /api/v1/inventory 200 OK - 215ms
+2026-09-14T00:15:37Z INFO DELETE /api/v1/orders/7461 204 OK - 69ms
+2026-09-14T00:16:03Z INFO GET /api/v1/orders/4405 200 OK - 264ms
+2026-09-14T00:17:11Z INFO DELETE /api/v1/orders/6453 204 OK - 238ms
+2026-09-14T00:18:10Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-14T00:18:26Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-14T00:19:01Z INFO POST /api/v1/notifications 202 OK - 18ms
+2026-09-14T00:19:58Z INFO GET /api/v1/reports/daily 200 OK - 200ms
+2026-09-14T00:20:37Z INFO GET /api/v1/orders 200 OK - 150ms
+2026-09-14T00:21:55Z INFO POST /api/v1/orders 201 OK - 278ms
+2026-09-14T00:23:20Z INFO GET /api/v1/users/2517 200 OK - 146ms
+2026-09-14T00:23:56Z INFO DELETE /api/v1/orders/8075 204 OK - 167ms
+2026-09-14T00:24:03Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:25:23Z INFO GET /api/v1/orders/7414 200 OK - 278ms
+2026-09-14T00:26:27Z INFO GET /api/v1/users/2786 200 OK - 122ms
+2026-09-14T00:26:51Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-14T00:27:06Z INFO GET /api/v1/orders 200 OK - 72ms
+2026-09-14T00:27:40Z INFO GET /api/v1/orders 200 OK - 73ms
+2026-09-14T00:29:05Z INFO GET /api/v1/webhooks 200 OK - 58ms
+2026-09-14T00:29:19Z INFO POST /api/v1/notifications 202 OK - 206ms
+2026-09-14T00:29:57Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-14T00:30:03Z INFO DELETE /api/v1/orders/5564 204 OK - 169ms
+2026-09-14T00:31:30Z INFO GET /api/v1/users/8787 200 OK - 277ms
+2026-09-14T00:32:05Z INFO GET /api/v1/orders 200 OK - 340ms
+2026-09-14T00:32:49Z ERROR GET /api/v1/inventory 503 Service Unavailable: upstream timeout
+2026-09-14T00:34:16Z INFO GET /api/v1/inventory 200 OK - 225ms
+2026-09-14T00:35:08Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-14T00:35:56Z INFO POST /api/v1/auth/login 200 OK - 109ms
+2026-09-14T00:36:01Z INFO GET /api/v1/reports/daily 200 OK - 113ms
+2026-09-14T04:57:12Z CRITICAL /api/v1/orders 500 unrecognized log level
+2026-09-14T00:37:09Z INFO GET /api/v1/inventory 200 OK - 126ms
+2026-09-14T00:38:13Z ERROR POST /api/v1/notifications 502 Bad Gateway: notification provider unreachable
+2026-09-14T00:38:31Z INFO DELETE /api/v1/orders/4068 204 OK - 122ms
+2026-09-14T00:39:38Z INFO GET /api/v1/orders 200 OK - 209ms
+2026-09-14T00:39:49Z ERROR GET /api/v1/reports/daily 500 Internal Server Error: unhandled exception in report generator
+2026-09-14T00:40:47Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-14T00:41:42Z INFO POST /api/v1/auth/login 200 OK - 48ms
+2026-09-14T00:42:08Z INFO POST /api/v1/orders 201 OK - 247ms
+2026-09-14T00:42:17Z INFO GET /api/v1/webhooks 200 OK - 177ms
+2026-09-14T00:43:18Z ERROR POST /api/v1/orders 500 Internal Server Error: database connection timeout
+2026-09-14T00:43:58Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:45:14Z INFO GET /api/v1/users/7228 200 OK - 190ms
+2026-09-14T00:45:58Z INFO GET /api/v1/webhooks 200 OK - 33ms
+2026-09-14T00:47:03Z ERROR POST /api/v1/webhooks 429 Too Many Requests: rate limit exceeded
+2026-09-14T00:47:49Z INFO DELETE /api/v1/orders/1496 204 OK - 331ms
+2026-09-14T00:48:46Z INFO GET /api/v1/webhooks 200 OK - 200ms
+2026-09-14T00:48:55Z INFO GET /api/v1/orders 200 OK - 107ms
+2026-09-14T00:49:08Z INFO POST /api/v1/auth/login 200 OK - 147ms
+2026-09-14T00:49:55Z INFO POST /api/v1/notifications 202 OK - 142ms
+2026-09-14T00:50:40Z INFO GET /api/v1/inventory 200 OK - 312ms
+2026-09-14T00:52:06Z INFO GET /api/v1/orders/1397 200 OK - 127ms
+2026-09-14T00:52:24Z INFO DELETE /api/v1/orders/7332 204 OK - 136ms
+2026-09-14T00:53:24Z INFO POST /api/v1/orders 201 OK - 101ms
