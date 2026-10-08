@@ -1,3 +1,4 @@
+import sys
 import re
 
 def read_lines(path):
@@ -48,3 +49,8 @@ def print_summary(errors):
         print(f"  last seen:  {data['last']}")
         print(f"  {data['message']}")
         print()
+
+if __name__ == "__main__":
+    lines = read_lines(sys.argv[1])
+    errors = group_errors(lines)
+    print_summary(errors)
